@@ -1,1 +1,0 @@
-# Curso_Verano_Industrial_40
