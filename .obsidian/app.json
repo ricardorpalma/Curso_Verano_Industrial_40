@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "adjuntos",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "openBehavior": "file:Readme.md"
+}

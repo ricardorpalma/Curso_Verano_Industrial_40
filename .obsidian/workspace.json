@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2a31a4d4a9b4f6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dffe89cc59b24fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8ebe83b2ca6c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f786c4de189a41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "87e07c7ae18f13bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d47530cc30b6f415",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "e7fb775df6ed3c5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "adb574ab8c4cc857",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "107a463bca1dd3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "527bf6c8397ded64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d8e4ee15c14795",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "0d99fb1fc74a5ede",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "0672b7a2e90309c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b03ed900e5a0ad00",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c4e45f34e91e3e12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "bc8ebe83b2ca6c54",
+  "lastOpenFiles": [
+    "Salvese_quien_pueda.md",
+    "Sálvese_quien_pueda.md",
+    "Sin confirmar 546403.crdownload",
+    "Quetzalcoatl_ha_regresado.md",
+    "Sin confirmar 782397.crdownload",
+    "Readme.md",
+    "adjuntos/Pasted image 20260714002219.png",
+    "adjuntos/Pasted image 20260714001408.jpg",
+    "Readme.md.md",
+    "Preguntas.md",
+    "adjuntos/Pasted image 20260714000609.jpg",
+    "adjuntos/Pasted image 20260714000407.jpg",
+    "adjuntos/Pasted image 20260714000312.jpg",
+    "adjuntos/Pasted image 20260714000144.png",
+    "adjuntos/Pasted image 20260714000012.jpg",
+    "adjuntos/Pasted image 20260714000000.png",
+    "adjuntos/Pasted image 20260713230449.png",
+    "adjuntos"
+  ]
+}
